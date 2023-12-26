@@ -1,4 +1,4 @@
-# 🚀 bootcoding-project-training
+# 🚀 Online-Restaurant-Project
 
 ## Project Description
 A real time ONLINE-RESTAURANT project case study to understand the 
